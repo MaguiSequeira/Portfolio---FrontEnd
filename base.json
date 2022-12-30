@@ -1,0 +1,23 @@
+{  
+  "empleados":[
+    {
+      "nombre": "David",
+      "apellido": "Sequeira",
+      "dni": 45167234
+
+    },
+
+    {
+      "nombre": "Santiago",
+      "apellido": "Sequeira",
+      "dni": 45167234
+
+    },
+
+    {
+      "nombre": "Noemi",
+      "apellido": "Sequeira",
+      "dni": 45167234
+    }
+  ]
+}
